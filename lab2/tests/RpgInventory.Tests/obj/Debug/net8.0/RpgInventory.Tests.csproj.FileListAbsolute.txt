@@ -1,0 +1,6 @@
+C:\Users\user\RiderProjects\lab2\tests\RpgInventory.Tests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_RpgInventory.Tests
+C:\Users\user\RiderProjects\lab2\tests\RpgInventory.Tests\obj\Debug\net8.0\RpgInventory.Tests.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\lab2\tests\RpgInventory.Tests\obj\Debug\net8.0\RpgInventory.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\lab2\tests\RpgInventory.Tests\obj\Debug\net8.0\RpgInventory.Tests.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\lab2\tests\RpgInventory.Tests\obj\Debug\net8.0\RpgInventory.Tests.AssemblyInfo.cs
+C:\Users\user\RiderProjects\lab2\tests\RpgInventory.Tests\obj\Debug\net8.0\RpgInventory.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\user\RiderProjects\lab2\src\RpgInventory\obj\Debug\net8.0\RpgInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\lab2\src\RpgInventory\obj\Debug\net8.0\RpgInventory.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\lab2\src\RpgInventory\obj\Debug\net8.0\RpgInventory.AssemblyInfo.cs
+C:\Users\user\RiderProjects\lab2\src\RpgInventory\obj\Debug\net8.0\RpgInventory.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\lab2\src\RpgInventory\bin\Debug\net8.0\RpgInventory.deps.json
+C:\Users\user\RiderProjects\lab2\src\RpgInventory\bin\Debug\net8.0\RpgInventory.dll
+C:\Users\user\RiderProjects\lab2\src\RpgInventory\bin\Debug\net8.0\RpgInventory.pdb
+C:\Users\user\RiderProjects\lab2\src\RpgInventory\obj\Debug\net8.0\RpgInventory.dll
+C:\Users\user\RiderProjects\lab2\src\RpgInventory\obj\Debug\net8.0\refint\RpgInventory.dll
+C:\Users\user\RiderProjects\lab2\src\RpgInventory\obj\Debug\net8.0\RpgInventory.pdb
+C:\Users\user\RiderProjects\lab2\src\RpgInventory\obj\Debug\net8.0\ref\RpgInventory.dll
