@@ -10,7 +10,7 @@
 
 ```
 lab1/
-├── lab1.sln                          # Solution файл
+├── University.sln                    # Solution файл
 ├── src/
 │   ├── University/                   # Основная библиотека классов
 │   │   ├── Domain/                   # Доменный слой (сущности)
