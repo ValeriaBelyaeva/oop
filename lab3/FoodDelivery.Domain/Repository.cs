@@ -5,7 +5,6 @@ using System.Linq;
 
 namespace FoodDelivery.Domain;
 
-/// <summary>Repository: абстракция хранилища заказов.</summary>
 public abstract class OrderRepository
 {
     public abstract void Save(Order order);

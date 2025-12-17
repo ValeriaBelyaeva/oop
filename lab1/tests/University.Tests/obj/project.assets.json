@@ -960,11 +960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\RiderProjects\\lab1\\tests\\University.Tests\\University.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\user\\RiderProjects\\oop\\lab1\\tests\\University.Tests\\University.Tests.csproj",
       "projectName": "University.Tests",
-      "projectPath": "C:\\Users\\user\\RiderProjects\\lab1\\tests\\University.Tests\\University.Tests.csproj",
+      "projectPath": "C:\\Users\\user\\RiderProjects\\oop\\lab1\\tests\\University.Tests\\University.Tests.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\RiderProjects\\lab1\\tests\\University.Tests\\obj\\",
+      "outputPath": "C:\\Users\\user\\RiderProjects\\oop\\lab1\\tests\\University.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -979,8 +979,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\user\\RiderProjects\\lab1\\src\\University\\University.csproj": {
-              "projectPath": "C:\\Users\\user\\RiderProjects\\lab1\\src\\University\\University.csproj"
+            "C:\\Users\\user\\RiderProjects\\oop\\lab1\\src\\University\\University.csproj": {
+              "projectPath": "C:\\Users\\user\\RiderProjects\\oop\\lab1\\src\\University\\University.csproj"
             }
           }
         }

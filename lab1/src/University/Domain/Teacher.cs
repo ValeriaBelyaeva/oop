@@ -10,6 +10,6 @@ public sealed class Teacher
         if (id == Guid.Empty) throw new ValidationException("Teacher id cannot be empty.");
         if (string.IsNullOrWhiteSpace(fullName)) throw new ValidationException("Teacher name cannot be empty.");
         Id = id;
-        FullName = fullName.Trim();
+        FullName = fullName.Trim(); // трим от пробелов на концах
     }
 }

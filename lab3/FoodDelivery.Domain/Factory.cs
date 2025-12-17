@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace FoodDelivery.Domain;
 
-/// <summary>Factory Method: создаёт стратегию стоимости доставки и применяет декораторы.</summary>
+/// создаёт стратегию стоимости доставки 
 public static class DeliveryStrategyFactory
 {
     public static IDeliveryFeeStrategy Create(string speed = "standard", bool contactless = false, bool green = false)

@@ -15,7 +15,7 @@ public sealed class DataStore
 
     private DataStore() { }
 
-    /// <summary>Удобно для интеграционных сценариев и ручного сброса в демо.</summary>
+    /// Удобно для интеграционных сценариев и ручного сброса в демо
     public void Clear()
     {
         Courses.Clear();

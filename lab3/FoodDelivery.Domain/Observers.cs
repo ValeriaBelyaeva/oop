@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace FoodDelivery.Domain;
 
-/// <summary>Паттерн Observer: подписка на события заказа.</summary>
+/// подписка на события заказа
 public interface IOrderObserver
 {
     void Update(Order order, string @event);

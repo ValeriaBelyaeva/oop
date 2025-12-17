@@ -4,7 +4,6 @@ using System.Collections.Generic;
 
 namespace FoodDelivery.Domain;
 
-/// <summary>Builder: пошаговая сборка заказа с опциями.</summary>
 public sealed class OrderBuilder
 {
     private readonly string _orderId;

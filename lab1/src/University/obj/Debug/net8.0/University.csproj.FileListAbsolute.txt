@@ -9,3 +9,15 @@ C:\Users\user\RiderProjects\lab1\src\University\obj\Debug\net8.0\University.dll
 C:\Users\user\RiderProjects\lab1\src\University\obj\Debug\net8.0\refint\University.dll
 C:\Users\user\RiderProjects\lab1\src\University\obj\Debug\net8.0\University.pdb
 C:\Users\user\RiderProjects\lab1\src\University\obj\Debug\net8.0\ref\University.dll
+C:\Users\user\RiderProjects\oop\lab1\src\University\bin\Debug\net8.0\University.deps.json
+C:\Users\user\RiderProjects\oop\lab1\src\University\bin\Debug\net8.0\University.dll
+C:\Users\user\RiderProjects\oop\lab1\src\University\bin\Debug\net8.0\University.pdb
+C:\Users\user\RiderProjects\oop\lab1\src\University\obj\Debug\net8.0\University.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\oop\lab1\src\University\obj\Debug\net8.0\University.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\oop\lab1\src\University\obj\Debug\net8.0\University.AssemblyInfo.cs
+C:\Users\user\RiderProjects\oop\lab1\src\University\obj\Debug\net8.0\University.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\oop\lab1\src\University\obj\Debug\net8.0\University.sourcelink.json
+C:\Users\user\RiderProjects\oop\lab1\src\University\obj\Debug\net8.0\University.dll
+C:\Users\user\RiderProjects\oop\lab1\src\University\obj\Debug\net8.0\refint\University.dll
+C:\Users\user\RiderProjects\oop\lab1\src\University\obj\Debug\net8.0\University.pdb
+C:\Users\user\RiderProjects\oop\lab1\src\University\obj\Debug\net8.0\ref\University.dll

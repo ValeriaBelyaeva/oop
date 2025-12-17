@@ -37,6 +37,6 @@ public abstract class Course
 
     public void UnenrollStudent(Guid studentId) => _studentIds.Remove(studentId);
 
-    /// <summary>Переопределяйте для специфических правил (например, вместимость аудитории)</summary>
+    /// для специфических правил (например, вместимость аудитории)
     protected virtual void ValidateEnrollment(Guid studentId, int newCount) { }
 }

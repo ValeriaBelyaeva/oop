@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PJfLCMM/AE0=",
+  "dgSpecHash": "iERDigZl1Ms=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\RiderProjects\\lab1\\src\\University\\University.csproj",
+  "projectFilePath": "C:\\Users\\user\\RiderProjects\\oop\\lab1\\src\\University\\University.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",

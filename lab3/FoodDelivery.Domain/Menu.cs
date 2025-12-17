@@ -6,7 +6,6 @@ namespace FoodDelivery.Domain;
 
 public record MenuItem(string Id, string Name, decimal Price);
 
-/// <summary>Простое in-memory меню.</summary>
 public class Menu
 {
     private readonly Dictionary<string, MenuItem> _items = new();

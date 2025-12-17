@@ -7,7 +7,6 @@ public sealed class InMemoryCourseRepository : ICourseRepository
 {
     private readonly Dictionary<Guid, Course> _store;
 
-    // Новый конструктор с опцией использовать Singleton-хранилище.
     public InMemoryCourseRepository(bool useSingleton = false)
     {
         _store = useSingleton

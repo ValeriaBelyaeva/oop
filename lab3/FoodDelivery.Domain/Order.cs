@@ -6,7 +6,7 @@ namespace FoodDelivery.Domain;
 
 public record OrderItem(MenuItem Item, int Quantity);
 
-/// <summary>Агрегат заказа: управляет состоянием, подписчиками и расчётом цены.</summary>
+/// управляем подпищиками состояниями и ценой
 public sealed class Order
 {
     private readonly List<IOrderObserver> _observers = new();

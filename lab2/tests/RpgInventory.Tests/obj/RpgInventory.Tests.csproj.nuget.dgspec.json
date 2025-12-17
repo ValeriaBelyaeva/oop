@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\RiderProjects\\lab2\\tests\\RpgInventory.Tests\\RpgInventory.Tests.csproj": {}
+    "C:\\Users\\user\\RiderProjects\\oop\\lab2\\tests\\RpgInventory.Tests\\RpgInventory.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\RiderProjects\\lab2\\src\\RpgInventory\\RpgInventory.csproj": {
+    "C:\\Users\\user\\RiderProjects\\oop\\lab2\\src\\RpgInventory\\RpgInventory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\lab2\\src\\RpgInventory\\RpgInventory.csproj",
+        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\oop\\lab2\\src\\RpgInventory\\RpgInventory.csproj",
         "projectName": "RpgInventory",
-        "projectPath": "C:\\Users\\user\\RiderProjects\\lab2\\src\\RpgInventory\\RpgInventory.csproj",
+        "projectPath": "C:\\Users\\user\\RiderProjects\\oop\\lab2\\src\\RpgInventory\\RpgInventory.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\RiderProjects\\lab2\\src\\RpgInventory\\obj\\",
+        "outputPath": "C:\\Users\\user\\RiderProjects\\oop\\lab2\\src\\RpgInventory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\user\\RiderProjects\\lab2\\tests\\RpgInventory.Tests\\RpgInventory.Tests.csproj": {
+    "C:\\Users\\user\\RiderProjects\\oop\\lab2\\tests\\RpgInventory.Tests\\RpgInventory.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\lab2\\tests\\RpgInventory.Tests\\RpgInventory.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\oop\\lab2\\tests\\RpgInventory.Tests\\RpgInventory.Tests.csproj",
         "projectName": "RpgInventory.Tests",
-        "projectPath": "C:\\Users\\user\\RiderProjects\\lab2\\tests\\RpgInventory.Tests\\RpgInventory.Tests.csproj",
+        "projectPath": "C:\\Users\\user\\RiderProjects\\oop\\lab2\\tests\\RpgInventory.Tests\\RpgInventory.Tests.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\RiderProjects\\lab2\\tests\\RpgInventory.Tests\\obj\\",
+        "outputPath": "C:\\Users\\user\\RiderProjects\\oop\\lab2\\tests\\RpgInventory.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -99,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\RiderProjects\\lab2\\src\\RpgInventory\\RpgInventory.csproj": {
-                "projectPath": "C:\\Users\\user\\RiderProjects\\lab2\\src\\RpgInventory\\RpgInventory.csproj"
+              "C:\\Users\\user\\RiderProjects\\oop\\lab2\\src\\RpgInventory\\RpgInventory.csproj": {
+                "projectPath": "C:\\Users\\user\\RiderProjects\\oop\\lab2\\src\\RpgInventory\\RpgInventory.csproj"
               }
             }
           }

@@ -4,7 +4,6 @@ using System.Linq;
 
 namespace FoodDelivery.Domain;
 
-/// <summary>DTO с детализацией цены.</summary>
 public sealed class PriceBreakdown
 {
     public decimal Subtotal { get; set; } = 0.00m;
@@ -32,7 +31,7 @@ public sealed class PricingContext
     }
 }
 
-/// <summary>Chain of Responsibility: правила ценообразования.</summary>
+/// правила ценообразования (CR)
 public abstract class PricingRule
 {
     public PricingRule? Next { get; private set; }

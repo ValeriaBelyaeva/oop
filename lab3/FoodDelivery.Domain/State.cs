@@ -10,7 +10,8 @@ public class InvalidTransition : Exception
     public InvalidTransition(string message) : base(message) { }
 }
 
-/// <summary>Паттерн State: состояние заказа и допустимые переходы.</summary>
+/// инкапсуляция поведения в зависимости от состояния
+/// +полиморфизм
 public abstract class OrderState
 {
     public abstract string Name { get; }

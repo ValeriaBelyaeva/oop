@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Zt9GZWYpX4=",
+  "dgSpecHash": "tbN15Rb/QUE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\RiderProjects\\lab1\\tests\\University.Tests\\University.Tests.csproj",
+  "projectFilePath": "C:\\Users\\user\\RiderProjects\\oop\\lab1\\tests\\University.Tests\\University.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.1\\microsoft.net.test.sdk.17.14.1.nupkg.sha512",

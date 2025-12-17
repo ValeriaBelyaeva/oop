@@ -3,13 +3,13 @@ using System;
 
 namespace FoodDelivery.Domain;
 
-/// <summary>Утилиты округления денежных значений.</summary>
+/// для округления денежных значений
 public static class MoneyUtils
 {
     public static decimal Round(decimal value) => Math.Round(value, 2, MidpointRounding.AwayFromZero);
 }
 
-/// <summary>Strategy: налоговые стратегии.</summary>
+/// платим налоги 
 public interface ITaxStrategy
 {
     decimal ComputeTax(decimal taxableAmount);
@@ -27,7 +27,7 @@ public sealed class FlatRateTax : ITaxStrategy
     public decimal ComputeTax(decimal taxableAmount) => MoneyUtils.Round(taxableAmount * Rate);
 }
 
-/// <summary>Strategy: стоимость доставки.</summary>
+/// стоимость доставки
 public interface IDeliveryFeeStrategy
 {
     decimal ComputeFee(double baseDistanceKm);
@@ -35,7 +35,7 @@ public interface IDeliveryFeeStrategy
 
 public sealed class BaseDeliveryFee : IDeliveryFeeStrategy
 {
-    /// <summary>База: 150 ₽ + 20 ₽/км после первых 2 км.</summary>
+    /// + 20 руб/км после первых 2 км.
     public decimal ComputeFee(double baseDistanceKm)
     {
         var extraKm = Math.Max(0.0, baseDistanceKm - 2.0);
@@ -44,13 +44,13 @@ public sealed class BaseDeliveryFee : IDeliveryFeeStrategy
     }
 }
 
-/// <summary>Decorator: обёртка для опций доставки.</summary>
+/// обёртка для опций доставки
 public abstract class DeliveryFeeDecorator : IDeliveryFeeStrategy
 {
     protected readonly IDeliveryFeeStrategy Inner;
     protected DeliveryFeeDecorator(IDeliveryFeeStrategy inner) => Inner = inner;
 
-    // Делаем InnerStrategy доступным для тестов/диагностики
+    // Делаем InnerStrategy доступным для тестов
     public IDeliveryFeeStrategy InnerStrategy => Inner;
 
     public abstract decimal ComputeFee(double baseDistanceKm);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HRpZ9Pqdi8o=",
+  "dgSpecHash": "awrDlJTfRNQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\RiderProjects\\lab2\\tests\\RpgInventory.Tests\\RpgInventory.Tests.csproj",
+  "projectFilePath": "C:\\Users\\user\\RiderProjects\\oop\\lab2\\tests\\RpgInventory.Tests\\RpgInventory.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\microsoft.net.test.sdk.17.10.0.nupkg.sha512",
